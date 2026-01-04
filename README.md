@@ -1,6 +1,6 @@
 # Named Entity Recognition (NER) using IndoELECTRA
 
-Project ini bertujuan untuk membangun model **Named Entity Recognition (NER)** untuk Bahasa Indonesia. Model ini dilatih untuk mendeteksi dan mengklasifikasikan entitas bernama (seperti nama orang, lokasi, dan organisasi) dalam teks menggunakan arsitektur deep learning state-of-the-art.
+Project inidibuat untuk membangun model **Named Entity Recognition (NER)** untuk Bahasa Indonesia. Model ini dilatih untuk mendeteksi dan mengklasifikasikan entitas bernama dalam teks menggunakan arsitektur deep learning state-of-the-art.
 
 ## 🧠 Model Architecture
 
